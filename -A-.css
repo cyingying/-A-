@@ -1,0 +1,27 @@
+rect{
+    fill:transparent;
+    stroke: black;
+}
+circle{
+    fill: transparent;
+    stroke: black;
+}
+ellipse{
+    fill: transparent;
+    stroke: black;
+}
+line{
+stroke: black;
+}
+path{
+    stroke: black;
+    fill: transparent;
+}
+#path1{
+    stroke-width:20;
+    stroke:pink;
+    stroke-linecap: round;
+}
+#ell{
+    fill:black;
+}
